@@ -1,0 +1,10 @@
+1 git init // iniciar repositorio
+2 git status // se utiliza para mostrar el estado actual del repositoreo
+3 git add . //sirve para preparar los cambios que has realizado
+4 git config --global user.name //sirve para establecer el nombre de usuario
+5 git config --global user.email // se utiliza para establecer la dirección de correo
+6 git commit -m "" // se utiliza para guardar los cambios que has preparado
+7 git push -u origin master // se utiliza para enviar su masterrama local al repositorio remoto denominado origin.
+8 git log // se utiliza para mostrar el historial de confirmaciones en tu repositorio de Git.
+9 clear //  se utiliza en la terminal para limpiar la pantalla
+10 git remote add origin // se utiliza para agregar un repositorio remoto a tu proyecto local de Git.
